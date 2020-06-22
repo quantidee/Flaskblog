@@ -1,1 +1,1 @@
-FLASK_APP=FlaskBlog.py
+FLASK_APP=flaskblog.py
